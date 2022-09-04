@@ -1,4 +1,4 @@
-# Button Clicker
+# Video Preview
 This is an assignment completed for Coding Dojo focused on learning about user events such as `onmouseover` and `onmouseout`.
 ### Objectives:
 * Add a `<video>` into the existing project
